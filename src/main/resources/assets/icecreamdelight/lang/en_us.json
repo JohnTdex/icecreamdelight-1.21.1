@@ -1,0 +1,13 @@
+{
+  "itemGroup.icecreamdelight": "Example Mod Tab",
+  "block.icecreamdelight.example_block": "Example Block",
+  "item.icecreamdelight.example_item": "Example Item",
+
+  "icecreamdelight.configuration.title": "Ice Cream delight Configs",
+  "icecreamdelight.configuration.section.icecreamdelight.common.toml": "Ice Cream delight Configs",
+  "icecreamdelight.configuration.section.icecreamdelight.common.toml.title": "Ice Cream delight Configs",
+  "icecreamdelight.configuration.items": "Item List",
+  "icecreamdelight.configuration.logDirtBlock": "Log Dirt Block",
+  "icecreamdelight.configuration.magicNumberIntroduction": "Magic Number Text",
+  "icecreamdelight.configuration.magicNumber": "Magic Number"
+}
