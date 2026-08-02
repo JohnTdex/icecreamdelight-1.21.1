@@ -1,0 +1,65 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_azure_bluet": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:azure_bluet"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_lily_of_the_valley": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:lily_of_the_valley"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_oxeye_daisy": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:oxeye_daisy"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "icecreamdelight:vanilla_extract"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_white_tulip": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:white_tulip"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_azure_bluet",
+      "has_oxeye_daisy",
+      "has_lily_of_the_valley",
+      "has_white_tulip"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "icecreamdelight:vanilla_extract"
+    ]
+  }
+}

@@ -1,13 +1,16 @@
 {
-  "itemGroup.icecreamdelight": "Example Mod Tab",
-  "block.icecreamdelight.example_block": "Example Block",
-  "item.icecreamdelight.example_item": "Example Item",
+  "creativetab.icecreamdelight.ice_cream_tab": "Ice Cream Delight",
 
-  "icecreamdelight.configuration.title": "Ice Cream delight Configs",
-  "icecreamdelight.configuration.section.icecreamdelight.common.toml": "Ice Cream delight Configs",
-  "icecreamdelight.configuration.section.icecreamdelight.common.toml.title": "Ice Cream delight Configs",
-  "icecreamdelight.configuration.items": "Item List",
-  "icecreamdelight.configuration.logDirtBlock": "Log Dirt Block",
-  "icecreamdelight.configuration.magicNumberIntroduction": "Magic Number Text",
-  "icecreamdelight.configuration.magicNumber": "Magic Number"
+  "item.icecreamdelight.vanilla_ice_cream": "Vanilla Ice Cream",
+  "item.icecreamdelight.chocolate_ice_cream": "Chocolate Ice Cream",
+  "item.icecreamdelight.strawberry_ice_cream": "Strawberry Ice Cream",
+  "item.icecreamdelight.mint_ice_cream": "Mint Ice Cream",
+  "item.icecreamdelight.caramel_ice_cream": "Caramel Ice Cream",
+  "item.icecreamdelight.blueberry_ice_cream": "Blueberry Ice Cream",
+
+
+  "item.icecreamdelight.caramel": "Caramel",
+  "item.icecreamdelight.distilled_spirit": "Distilled Spirit",
+  "item.icecreamdelight.vanilla_extract": "Vanilla Extract",
+  "item.icecreamdelight.pasteurized_milk": "Pasteurized Milk"
 }
