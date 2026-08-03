@@ -26,9 +26,14 @@ public class IceCreamTab {
                 output.accept(IngredientItem.GLOWBERRY_ICE_CREAM);
 
                 output.accept(IngredientItem.CARAMEL);
+                output.accept(IngredientItem.CREAM);
                 output.accept(IngredientItem.DISTILLED_SPIRIT);
                 output.accept(IngredientItem.VANILLA_EXTRACT);
-                output.accept(IngredientItem.PASTERURIZED_MILK);
+                output.accept(IngredientItem.PASTEURIZED_MILK);
+                output.accept(IngredientItem.PASTEURIZED_MILK_BOTTLE);
+                output.accept(IngredientItem.WHEAT_FLOUR);
+                output.accept(IngredientItem.UNCOOKED_WAFER);
+                output.accept(IngredientItem.WAFER);
 
             })
             .build());

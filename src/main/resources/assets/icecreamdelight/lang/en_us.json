@@ -3,14 +3,18 @@
 
   "item.icecreamdelight.vanilla_ice_cream": "Vanilla Ice Cream",
   "item.icecreamdelight.chocolate_ice_cream": "Chocolate Ice Cream",
-  "item.icecreamdelight.strawberry_ice_cream": "Strawberry Ice Cream",
-  "item.icecreamdelight.mint_ice_cream": "Mint Ice Cream",
+  "item.icecreamdelight.berry_ice_cream": "Berry Ice Cream",
   "item.icecreamdelight.caramel_ice_cream": "Caramel Ice Cream",
-  "item.icecreamdelight.blueberry_ice_cream": "Blueberry Ice Cream",
-
+  "item.icecreamdelight.chorus_ice_cream": "Chorus Ice Cream",
+  "item.icecreamdelight.glowberry_ice_cream": "Glowberry Ice Cream",
 
   "item.icecreamdelight.caramel": "Caramel",
+  "item.icecreamdelight.cream": "Cream",
   "item.icecreamdelight.distilled_spirit": "Distilled Spirit",
   "item.icecreamdelight.vanilla_extract": "Vanilla Extract",
-  "item.icecreamdelight.pasteurized_milk": "Pasteurized Milk"
+  "item.icecreamdelight.pasteurized_milk": "Pasteurized Milk",
+  "item.icecreamdelight.pasteurized_milk_bottle": "Pasteurized Milk Bottle",
+  "item.icecreamdelight.wheat_flour": "Wheat Flour",
+  "item.icecreamdelight.uncooked_wafer": "Uncooked Wafer",
+  "item.icecreamdelight.wafer": "Wafer"
 }

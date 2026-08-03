@@ -13,24 +13,18 @@
     },
     [
       {
-        "item": "minecraft:azure_bluet"
+        "item": "minecraft:sugar_cane"
       },
       {
-        "item": "minecraft:oxeye_daisy"
-      },
-      {
-        "item": "minecraft:lily_of_the_valley"
-      },
-      {
-        "item": "minecraft:white_tulip"
+        "item": "minecraft:bamboo"
       }
     ],
     {
-      "item": "icecreamdelight:distilled_spirit"
+      "item": "minecraft:fermented_spider_eye"
     }
   ],
   "result": {
-    "count": 4,
-    "id": "icecreamdelight:vanilla_extract"
+    "count": 1,
+    "id": "icecreamdelight:distilled_spirit"
   }
 }
